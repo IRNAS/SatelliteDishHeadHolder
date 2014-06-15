@@ -1,12 +1,12 @@
 
-d_luknje = 41; //premer luknje za glavo
-l_luknje = 47; //oddaljenost luknje za glavo od posevnega cepa
-kot = 35; //kot posevnega cepa od navpicnice
-b_cepa = 26; //sirina cepa
-t_cepa = 12; //debelina cepa
-l_cepa = 40; //dolzina cepa
-d_aluminij = 2; //debelina aluminijastega ohisja, kamor je pritrjen celoten nosilec
-del = 0; //del=1 za prvi kos nosilca, del=2 za drugi kos nosilca, del=0 za oba kosa
+d_luknje = 41; //head diameter
+l_luknje = 47; //head from arm offset
+kot = 35; //angle of bracket
+b_cepa = 26; //arm tube inside width
+t_cepa = 12; //arm tube inside thickness
+l_cepa = 40; //arm tube inside length
+d_aluminij = 2; //arm tube wall thickness
+del = 0; //del=1 for the first part of the holder, del=2 for the second part of the holder, del=0 for both parts together
 
 
 
