@@ -1,18 +1,18 @@
 Satellite Dish Head Holder
 =======================
 
-3D printable parametric satellite dish head/feed holder. Designed to replace original holder if broken or missing. Design is parametric in OpenSCAD to create suitable holder for your aplication.
+3D printable parametric satellite dish head/feed holder. Designed to replace original holder if broken or missing. Design is parametric in OpenSCAD to create suitable holder for your application.
 
 
 ### Parameters
  * head diameter
  * head from arm offset (head center)
  * angle of bracket
- * arm tube inside lengt, width and thickness
+ * arm tube inside length, width and thickness
  * arm tube wall thickness
 
 ### Printing instructions
-Print both pieces seperately and insert M3 bolts for aditional support. Use M4 bolts and nuts to assemble.
+Print both pieces separately and insert M3 bolts for additional support. Use M4 bolts and nuts to assemble.
 
  ![SatelliteDishHeadHolder](https://raw.github.com/IRNAS/SatelliteDishHeadHolder/master/photos/SatelliteDishHeadHolder1.jpg)
 
